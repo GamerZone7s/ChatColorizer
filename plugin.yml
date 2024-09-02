@@ -1,0 +1,18 @@
+---
+name: ChatColorizer
+main: GamerZone7s\ChatColorizer\Main
+version: 1.0.0
+api: 5.0.0
+author: GamerZone7s
+description: A plugin that allows players to customize their chat color.
+website: https://indianzone7s.blogspot.com/
+commands:
+  setcolor:
+    description: Set the chat color for a player.
+    usage: /setcolor <playername> <colorcode>
+    permission: chatcolorizer.setcolor
+permissions:
+  chatcolorizer.setcolor:
+    description: Allows the player to set their chat color.
+    default: true
+...
