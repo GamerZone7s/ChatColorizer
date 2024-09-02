@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/GamerZone7s/ChatColorizer
+build-by-default: true
+branches:
+- main
+projects:
+  ChatColorizer:
+    path: ""
+    icon: "icon.png"
+...
