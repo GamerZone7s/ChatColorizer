@@ -1,0 +1,28 @@
+# ChatColorizer Plugin Configuration
+# Customize chat colors for players
+
+default_color: '&c' # Default color for players if no custom color is set
+
+color_options:
+  - '&f' # White
+  - '&0' # Black
+  - '&1' # Dark Blue
+  - '&2' # Dark Green
+  - '&3' # Dark Aqua
+  - '&4' # Dark Red
+  - '&5' # Dark Purple
+  - '&6' # Gold
+  - '&7' # Gray
+  - '&8' # Dark Gray
+  - '&9' # Blue
+  - '&a' # Green
+  - '&b' # Aqua
+  - '&c' # Red
+  - '&d' # Light Purple
+  - '&e' # Yellow
+  - '&r' # Reset color
+
+# Example of how to set default colors for new players
+# player_defaults:
+#   Player1: '&b' # Light Aqua
+#   Player2: '&d' # Light Purple
